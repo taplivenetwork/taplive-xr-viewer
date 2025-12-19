@@ -1,0 +1,20 @@
+{
+    "apiBaseUrl": "https://api.taplive.example.com",
+    "webSocketUrl": "wss://socket.taplive.example.com",
+    "enableDebugMode": true,
+    "xrSettings": {
+        "autoStartXR": true,
+        "enableBoundaryVisuals": true,
+        "playerHeight": 1.8
+    },
+    "networkSettings": {
+        "autoConnect": false,
+        "connectionTimeout": 10,
+        "retryAttempts": 3
+    },
+    "orderSettings": {
+        "useMockData": true,
+        "autoRefreshInterval": 30,
+        "maxDisplayedOrders": 20
+    }
+}
