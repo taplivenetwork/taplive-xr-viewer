@@ -1,0 +1,8 @@
+README Explanation for Unity Build
+
+So far there is an XR/VR dev toolkit that controls the camera (unity's built in packages for XR development.)
+There is a mouse looker program that allows you to move the camera/screen around for demo purposes. First build in Build folder.
+
+Inverted sphere with material and render texture (the render texture in question is the video player) which allows you to view the video from inside.
+
+// add more when home
