@@ -5,4 +5,6 @@ There is a mouse looker program that allows you to move the camera/screen around
 
 Inverted sphere with material and render texture (the render texture in question is the video player) which allows you to view the video from inside.
 
+BUILDS ARE IN THE BUILD FOLDER
+
 // add more when home
